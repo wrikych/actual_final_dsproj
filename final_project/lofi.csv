@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Guzimi,Something Light,Something Light,5KExA1UDxPw4gJNkqoHPPd,0.731,0.364,0,-13.366,1,0.16,0.935,0.192,0.752,138.012,125217,4
+1,Ruth de las Plantas,Areca,Areca,34ECimOZN65vNIEDRauhhd,0.773,0.485,4,-10.08,1,0.0366,0.876,0.126,0.412,119.963,119741,4
+2,Fallen Roses,Donde Estas?,Donde Estas?,2mRYo91e0IZu9HPPAIxVAq,0.55,0.473,8,-11.806,0,0.0522,0.872,0.143,0.242,85.081,124245,4
+3,Cherry Vans,Planton,Planton,0bzzv1xG2UNSTICdmG0o3e,0.734,0.336,10,-15.054,1,0.057,0.907,0.112,0.0602,80.004,150000,4
+4,wallyPDF,Call Me,Call Me,34KmJ8zj9Fqq2aFWOEA5br,0.695,0.221,3,-15.575,1,0.0725,0.771,0.11,0.396,160.037,120022,4
+5,B.L.U.N.T.S,La Belleza de lo Cotidiano,La Belleza de lo Cotidiano,13b0yCb3MXIg29tLhbHE7H,0.461,0.325,6,-9.826,0,0.0279,0.794,0.118,0.691,180.11,128000,4
+6,Inf,World Is My Pillow,World Is My Pillow,0V2A3Wj3b7wLbEf0kLZAhn,0.68,0.367,6,-14.941,0,0.0478,0.929,0.131,0.72,113.113,104071,4
+7,Kidskeep.Z,Golden lights on my bike,Golden lights on my bike,5pptoGlebGh11vKzVuda4y,0.626,0.169,11,-21.104,0,0.131,0.21,0.197,0.306,84.017,103000,4
+8,High John,Flume Ride Blues,Flume Ride Blues,6looAL2s44oXuobZrNEcom,0.612,0.308,6,-19.131,1,0.0614,0.795,0.121,0.546,143.919,228620,4
+9,Seaspray,Monotation,Monotation,2iXt75EraZMReN0YcioAoM,0.825,0.317,8,-11.035,0,0.0714,0.579,0.13,0.359,134.959,161289,4
+10,Dpsht,hiraeth,hiraeth,5mmuH8pMKMH2LxoTarovTL,0.856,0.129,6,-13.999,0,0.379,0.915,0.115,0.476,82.055,93872,4
+11,AOI,when i ate a persimmon,when i ate a persimmon,4esDDhC3v8sXQbrtUdqFsG,0.941,0.411,2,-5.999,1,0.169,0.663,0.114,0.547,130.078,124152,4
+12,Epifania,Bittersweet Memories,Bittersweet Memories,6JvPLRyFyc5fnvaHnjVhIZ,0.598,0.186,2,-16.616,0,0.0428,0.94,0.106,0.143,74.022,135000,4
+13,Sless Praismo,Fear & Trust,Fear & Trust,51mDrXPeJpkB5IvLuPXQZY,0.661,0.358,5,-16.862,0,0.0786,0.873,0.125,0.348,145.921,118356,4
+14,Lito Akari,Umami,Umami,2awWBD8K1asrfUelSJFui5,0.554,0.44,11,-7.481,0,0.0284,0.505,0.102,0.247,144.086,119167,4
+15,RUIDO,por ti,por ti,71SldLC7hOSRp2hKhmWcr0,0.69,0.222,8,-18.795,0,0.0909,0.898,0.123,0.0974,170.0,118690,4
+16,Wataru Fujiwara,Mojito,Mojito,7DDlCk1cqpE8xjvo1CEsrW,0.816,0.453,7,-9.022,1,0.144,0.967,0.133,0.474,84.958,103765,4
+17,Nalim,Salem,Snack,0dHS17dsh21JkDKwy49ZrE,0.811,0.431,2,-9.85,1,0.393,0.935,0.112,0.336,89.965,120059,4
+18,Planetarium,Boreal,Inmersion,2enL3l6hjts4Www3YDtdcB,0.558,0.0451,1,-29.616,0,0.0289,0.875,0.11,0.117,98.986,237576,4
+19,XXIII,Vanilla,Vanilla,4ORT7AWNeQ34OL7uboB43c,0.758,0.325,7,-13.899,1,0.154,0.931,0.129,0.269,148.024,123243,4
+20,Florence Ada,Blossoms,Blossoms,3lUiZfl1FXEqRiemX0QdHf,0.494,0.317,0,-13.422,1,0.211,0.898,0.22,0.241,84.991,102118,4
+21,Nathan Kawanishi,Chiyoda Book Stores / First Bite of Yakiniku,Chiyoda Bookstores,7xRwsyxY0Hpk3zrIpSe54e,0.606,0.567,4,-10.738,0,0.0387,0.825,0.115,0.401,134.816,104889,4
+22,Cap Kendricks,Bliss,Bliss,6IpHohsQdyLeujYXbyqhk9,0.674,0.605,5,-9.108,1,0.0542,0.842,0.119,0.31,175.974,122727,4
+23,Timothy Infinite,As The Sun Rises,Morning Stretch,4BfOkMlyoev0VEN5ClXMby,0.705,0.501,11,-8.953,0,0.288,0.0393,0.284,0.542,166.33,144078,4
+24,wallyPDF,All I Need,All I Need,4EumqfEVsWUnL6enOFLPIE,0.506,0.291,3,-15.416,1,0.0418,0.0125,0.35,0.248,79.928,120020,4
+25,Dualizm,Home,Angels,6lfVI7z6flsco36BPAeXXP,0.83,0.3,2,-10.608,1,0.0756,0.923,0.36,0.267,87.997,152727,4
+26,yosev,Tanger,Tanger,56qbQWzgwBV6Djd9Yukiae,0.709,0.284,5,-10.951,1,0.0349,0.863,0.0697,0.283,89.029,151011,4
+27,Kuranes,Finesse,Finesse,1jO20pEDfHbpGNeB02WRnc,0.727,0.513,2,-7.045,0,0.119,0.122,0.194,0.796,80.983,124444,4
+28,Tom Doolie,Whelve,Whelve,1vjYMAt9cUzr2oMbAR94lT,0.432,0.498,0,-13.752,1,0.105,0.91,0.106,0.277,79.113,113347,4
+29,lofi geek,Shining Sun (Lofi Hip Hop),Reverie,7t72V2dKD4Fkcyk2IIGoVy,0.667,0.113,6,-15.002,0,0.267,0.797,0.118,0.158,81.984,190244,4
+30,Strong Maurice,Synergy,Warmer Nights,0nGWIqSxMU7jlkDTZoHDlE,0.65,0.233,2,-11.827,0,0.0437,0.745,0.108,0.063,79.943,151472,4
+31,Mr Mantega,Time For Zen,Time For Zen,2RPIUFZSNK1TVytzJI1sIZ,0.824,0.446,9,-9.683,1,0.25,0.0153,0.184,0.711,140.049,144000,3
+32,Skence,Mayestic Park,Ruma Sakit,3v1nSSLEcT4TB4wqFSTGW9,0.686,0.69,6,-6.201,1,0.235,0.0123,0.273,0.446,87.996,121483,4
+33,AHOSHI,Retro Days,Retro Days,2MXFQr1vpjn0zydw33E6ZR,0.722,0.376,10,-13.128,1,0.0984,0.711,0.182,0.365,83.015,104198,4
+34,Living Room,Summer in the Streets,Summer in the Streets,1j0ocgsF8l1m5yiVjfgmMa,0.76,0.397,10,-13.063,1,0.0926,0.832,0.118,0.831,88.997,109888,4
+35,Clifford,One Hitter,One Hitter,6bQFatbO5hWuTfPwCporLP,0.659,0.51,11,-9.553,0,0.0818,0.58,0.0583,0.375,92.131,152609,4
+36,Bobby Dreamz BIG,Flores,Flores,4LvzzJt1M7I0mcMB7bI8t5,0.665,0.661,6,-9.1,0,0.046,0.888,0.138,0.439,108.695,107671,3
+37,Lou Filou,In Her Mind,In Her Mind,0TvJASLNEqBuPOpzsVNNMA,0.812,0.367,10,-9.292,1,0.106,0.957,0.106,0.267,150.009,102667,4
+38,Oilix,Smokers Delight,Smokers Delight,2r3L8vTYNoiXVPM4G9jbpm,0.739,0.369,10,-12.759,0,0.0881,0.61,0.146,0.546,159.921,117000,4
+39,Pachakuti,El Paso,El Paso,5WE5Ua25Aa4vHRzTalKcEq,0.71,0.423,0,-12.924,0,0.0325,0.895,0.102,0.647,116.042,200813,4
+40,Early Garden,Busy Branches,Busy Branches,2GKQNEAMc6bQjqBHdNtlzz,0.76,0.446,5,-9.601,0,0.0476,0.849,0.103,0.194,89.971,138667,4
+41,Iassu,Butterfly,Butterfly,4NNWW0MiIYdQeYhJWrMnrg,0.407,0.337,9,-12.825,0,0.0416,0.476,0.117,0.268,79.633,96000,4
+42,Butler Earl,The Chateau,Chateau Manoir,2lKu78Z7WWpSCIEMxDTvu4,0.8,0.763,5,-6.231,0,0.0666,0.884,0.104,0.752,136.994,106112,4
+43,ORANCHA,Mentatea,Kurumi,5pniszt2JxZLIIbrhTPrf6,0.592,0.582,2,-8.268,1,0.185,0.86,0.0891,0.366,180.106,163333,4
+44,Made in M,Marino,Garnet,3aG6UBjGHkp556YEYsXAwc,0.642,0.265,0,-11.578,0,0.168,0.931,0.107,0.754,81.091,94815,4
+45,Kurt Stewart,huh,huh,7HkWw9XGFZOVxF0goVoY3S,0.707,0.194,5,-14.588,0,0.0754,0.864,0.0873,0.4,81.581,94118,4
+46,downstairs lantern,Flowers in Your Eyes,Something in the Water,0Trgs5CzLfcXagLE62j8AS,0.597,0.532,9,-8.575,0,0.0942,0.885,0.126,0.721,114.214,139263,4
+47,Lake Valley,Sense Maker,Sense Maker,3Vd1Teq0uRyxW5wwUImAcn,0.642,0.584,10,-7.528,1,0.0368,0.796,0.088,0.052,89.985,155000,4
+48,baegel,"It's Bedtime Honey, Put Your PJs On",Probably Yet Unfortunately,3nLH6CUjmqRcTViy3UeVw3,0.593,0.262,5,-8.024,1,0.0343,0.859,0.0964,0.339,80.914,126745,4
+49,Los Bosques,Viento de Arrabal,Viento de Arrabal,6pO0m7Cf1AhEBKHcS4yH05,0.678,0.424,9,-11.997,0,0.065,0.851,0.0804,0.438,172.157,125581,4
+50,Ozoyo,Hello Planta,Hello Planta,2exLnxLChIibXNuR7VjdBF,0.642,0.826,6,-7.836,0,0.0922,0.512,0.429,0.357,116.026,128276,4
+51,Lukas Got Lucky,Lunchbox,Lunchbox,4HLiRjP724PGR9wWRD5EBB,0.646,0.6,4,-5.103,0,0.0311,0.822,0.176,0.288,81.026,217634,4
+52,Singexi,Lo-Fi Grinder,Lo-Fi Grinder,1gChm0wIt5EzsegHaw11iL,0.733,0.451,0,-11.647,1,0.0653,0.253,0.103,0.278,80.013,112781,4
+53,Tall Roots,Step at a Time,Step at a Time,1J9yoEKfFYn63XF7Ml0IMd,0.345,0.555,5,-8.784,0,0.104,0.836,0.237,0.336,75.267,153800,4
+54,oopiie,Salt,Salt,7pBSIcM1RHRkBLhDE6UJSg,0.696,0.288,2,-13.613,1,0.0384,0.941,0.106,0.306,170.017,137647,4
+55,Assistant Manager,Working From Home,Working From Home,0uHOaloc8zRTmkvFKFG0cF,0.72,0.217,6,-16.399,1,0.0856,0.396,0.159,0.411,86.018,125581,4
+56,"Sarah, the Illstrumentalist",Golden Skin,Golden Skin,2WIkgLazRptoY6fxVmhoGA,0.795,0.39,7,-7.281,1,0.221,0.834,0.117,0.579,92.018,129135,4
+57,Silvana,White Dunes,Miss lavii,4UpMl0ADAnyeLBM1TGbqtu,0.719,0.242,10,-9.429,1,0.147,0.927,0.213,0.278,150.015,102400,4
+58,Mike Oliver,Crystals,Crystals,224u5HmiQxK7tQLWrFGdrF,0.745,0.374,10,-11.203,0,0.0564,0.905,0.105,0.636,79.999,127579,4
+59,Various Artists,Bossa Beats (Vol. 1),Agua De Beber - uChill Remix,5QAY65yveq7KhgbImmiIiL,0.853,0.557,8,-7.928,1,0.0902,0.896,0.173,0.821,146.956,135510,4
+60,beauBAE,In Perpetuum,In Perpetuum,3ImHLPyqf739WgzXKjPqfU,0.657,0.635,11,-8.43,1,0.297,0.834,0.117,0.689,80.05,112500,4
+61,Muerto A Puntapiés,Call me,Call me,0uphcJxEE2Slw2kg2Zo1PC,0.689,0.197,4,-13.627,1,0.0507,0.722,0.106,0.0749,143.929,118167,4
+62,Koti6,Unguarded Travelin',Unguarded Travelin',4OYS4H9fVFGK87WtC32qmL,0.634,0.46,3,-12.4,0,0.471,0.929,0.338,0.923,159.971,169500,4
+63,ᴄᴀᴍᴏᴍɪʟʟᴀ,A Cup of Camomilla,Too Lazy,0dpiqzuKFe5RPFEA38bQ0V,0.668,0.398,1,-11.97,1,0.147,0.92,0.108,0.0328,91.099,87000,4
+64,gummy3000,SAKURA,SAKURA,2CyocAM5pT88oWHLUGSLyy,0.664,0.695,5,-8.809,1,0.0424,0.852,0.117,0.446,87.143,122333,4
+65,Fthmlss,Prism,Prism,4iwNOeW271qaVuNllTe0d7,0.457,0.236,6,-14.837,0,0.23,0.0492,0.542,0.191,83.967,142000,4
+66,Monster Rally,Phthalo Blue,Phthalo Blue,7Dqa3SfYPUz22NzMXd4ThA,0.423,0.588,10,-9.923,1,0.0474,0.306,0.137,0.459,201.217,197295,3
+67,Kubuch,Night calls,Night calls,6HjyOO1toy7MTglP2QrYVV,0.73,0.242,0,-12.898,1,0.0432,0.628,0.107,0.0473,139.985,140696,4
+68,Morris Hardin,Get Out,Get Out,0MAif0IWxKhkrpgUP6wceY,0.602,0.214,10,-20.521,0,0.0525,0.934,0.114,0.315,168.039,117143,4
+69,Damn Homies,Nothing But Net,Nothing But Net,55WjPayn3MNHh8qPhGDwVw,0.672,0.462,5,-7.294,0,0.103,0.516,0.128,0.826,81.88,114146,4
+70,Tohaj,Tanami,Tanami,1bRH5xHWwotEtn3zMujkie,0.708,0.424,7,-10.868,1,0.0437,0.667,0.111,0.442,93.53,174452,4
+71,B-Side,Plateau,Plateau,0XbufSnr1JuJ82kGqucmMw,0.535,0.404,2,-7.676,0,0.0616,0.584,0.112,0.52,78.512,161061,4
+72,Masaki Hori,mel,mel,31YjDLgqKDOwhrvWVfjvnT,0.701,0.343,5,-10.237,0,0.179,0.923,0.0818,0.49,80.186,152267,4
+73,Leo Motta,Golden Clouds,Golden Clouds,71diIhkJKn0xmL7bSdq7HN,0.655,0.308,7,-11.239,0,0.0349,0.703,0.114,0.411,172.005,101600,4
+74,Fthmlss,Anxious,Anxious,2LYopzPfntS0aPLCOBr0xH,0.594,0.436,10,-13.633,0,0.174,0.366,0.0752,0.217,77.076,149623,3
+75,Lito Akari,Izumi,Izumi,6JmZZ71fB9PRiSe3pUclSp,0.533,0.525,11,-13.195,0,0.121,0.887,0.138,0.183,126.132,106667,4
+76,Kasimir,Kasimodo,Kasimodo,7pgD39CGSkncKQWi2jjVce,0.736,0.322,3,-16.183,0,0.0506,0.95,0.113,0.55,80.004,99000,4
+77,Mujo,Bouncing Lemons,Bouncing Lemons,604c3bQGYjDmDbiYeR8aeK,0.504,0.532,7,-9.454,1,0.18,0.617,0.0689,0.454,136.043,126072,4
+78,Pearldiver,Closed Eyes,Closed Eyes,0eE5eceODQO7W3vwQ3Hrs2,0.761,0.175,3,-16.462,1,0.0634,0.823,0.076,0.169,136.007,143824,4
+79,Guzimi,Kalmar,Kalmar,1yhh5r0KAAWbcFDKG9tu0L,0.65,0.323,9,-14.724,0,0.0493,0.794,0.11,0.449,83.936,148571,4
+80,xander.,Sorry But Not Sorry,Sorry But Not Sorry,13xHMYN3RXi8tiOlpPw2vq,0.784,0.326,6,-14.312,0,0.314,0.835,0.159,0.553,80.054,156000,4
+81,Moka Only,Martian XMAS 2021,Fallin...,2FINs312vFapeblMwVGVGo,0.694,0.55,1,-8.546,1,0.232,0.487,0.142,0.485,92.009,110780,4
+82,LESKY,Night Exchange,Riding Bikes,3PEeUjZVM6X1LPG5hvKbQw,0.381,0.377,1,-13.915,1,0.164,0.754,0.121,0.251,79.44,127500,4
+83,Palmasur,Invierno Solitario,Invierno Solitario,21sV7KSahkzxD9R9o3Cz5y,0.554,0.278,8,-13.114,0,0.0372,0.908,0.108,0.44,77.004,144935,4
+84,Deep Wave,Lo-Fi Lounge Beats,Musica,5SKfDfuQkWm0nPYyCXWFyA,0.489,0.463,6,-10.139,0,0.1,0.904,0.618,0.7,82.081,97229,4
+85,Ruth de las Plantas,Monstera,Monstera,0bXTepxB0Op1hLb3u5Ph10,0.626,0.627,1,-7.601,0,0.0344,0.807,0.252,0.669,122.068,118945,4
+86,9ICK,Nyhavn by Day,Nyhavn by Day,0HNV1CfWjc4auIrGhoirzZ,0.604,0.565,10,-7.598,0,0.0552,0.0367,0.187,0.437,89.044,118652,4
+87,Poetics,epona,epona,499cXRvJU5fiOKpOAXJBDU,0.462,0.141,10,-19.385,0,0.0506,0.826,0.22,0.603,153.435,99744,4
+88,lofi geek,Sentaku Shitsu (Japanese Lofi),Sentaku Shitsu - Japanese Lofi,0E7v3PNerWsOopv3SusWtZ,0.598,0.262,0,-16.143,1,0.0536,0.471,0.0889,0.167,140.03,193250,4
+89,Chancla,Profesor,Profesor,70A2dr0LJoFAmplOmYqdkn,0.831,0.423,10,-5.961,0,0.0616,0.933,0.0703,0.853,82.018,168705,4
+90,Emapea,I Like That,I Like That,66g2qfKKlTiZjkGcc0F4kp,0.689,0.398,2,-4.743,0,0.124,0.892,0.116,0.724,172.109,192000,4
+91,Glimlip,Undertones,Deep Pockets,0ULvM3cN1ueTD2YP9cx47L,0.707,0.561,1,-13.775,1,0.134,0.911,0.281,0.149,82.051,130884,4
+92,Konteks,Rendezvous,Underground,7lL3BDrOSvXep6OhMhTC85,0.577,0.264,3,-12.642,0,0.0384,0.86,0.204,0.594,84.997,152824,4
+93,Herring Franky,Jazzbstract Flava,Vibe Shaker,5LhUHnMCmXKJnl4aPlCh0f,0.836,0.217,7,-15.198,1,0.598,0.107,0.173,0.728,87.948,109091,4
+94,Hicut Lopass,holy heights,holy heights,41sAigko8vMq92aIDWb52k,0.744,0.214,1,-15.693,1,0.221,0.9,0.0903,0.453,82.98,120542,4
+95,Tokoyo,Sunday Afternoons,Sunday Afternoons,6ZXTDAfPfSOjjMxjAoVlZC,0.919,0.28,10,-12.364,0,0.183,0.724,0.126,0.626,90.015,107167,4
+96,Bluewerks,Bluewerks Vol. 6: Open The Window,Laguna,16kdntLVpPWh3L1r13Ik7D,0.785,0.434,5,-9.932,0,0.0462,0.834,0.0738,0.38,112.521,129600,3
+97,YetBaby,Faith,Faith,0zErESQdCLKMCGfhVImwR8,0.811,0.888,6,-6.394,0,0.0494,0.0173,0.156,0.65,120.004,136620,4
+98,Maadrhino,Thoughts,Thoughts,37jJKReN82M4OTUKfydz3Z,0.745,0.21,4,-16.404,0,0.239,0.907,0.172,0.129,79.947,114000,4
+99,J. Lorenzo,rain on leaf,rain on leaf,7M5FcAfLlFBb22EysPkX7w,0.752,0.259,2,-11.954,0,0.0415,0.691,0.108,0.118,138.121,126000,3
